@@ -1,6 +1,6 @@
 # Try-Hack-Me-Writeup
 
-**Write-Up: FOX-FOSTER Cryptography CTF Challenge**
+**Write-Up: FOX-FOSTER Cryptography CTF Challenge**  https://tryhackme.com/room/manage/foxfostercryptographyctfro
 
 Welcome to the FOX-FOSTER Cryptography CTF challenge! This exciting room invites participants to dive into the world of encryption and decryption. Throughout this challenge, participants encountered a variety of encrypted messages and employed different techniques to uncover their hidden meanings. Let's explore each question and its solution:
 
