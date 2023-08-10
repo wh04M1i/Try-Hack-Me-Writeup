@@ -1,4 +1,5 @@
 **Write-Up: FOX-FOSTER Cryptography CTF Challenge - Step-by-Step Guide**
+https://tryhackme.com/room/foxfostercryptographyctf
 
 Welcome to the detailed step-by-step write-up for the FOX-FOSTER Cryptography CTF challenge on TryHackMe. This comprehensive guide will walk you through each question, providing detailed explanations of the techniques used to decrypt the messages.
 
