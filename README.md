@@ -3,18 +3,18 @@ https://tryhackme.com/room/foxfostercryptographyctf
 
 Welcome to the detailed step-by-step write-up for the FOX-FOSTER Cryptography CTF challenge on TryHackMe. This comprehensive guide will walk you through each question, providing detailed explanations of the techniques used to decrypt the messages.
 
-**Question 1: Decrypt with a Keyword (Caesar Cipher)**
+**Question 1: Decrypt with a Keyword (Vigenère Cipher)**
 
 1. Analyze the encrypted message: "Uvagxh kj rwx ygp qtvfgk."
 2. The hint suggests that a keyword helps in decrypting. The keyword provided is 'CRYPTO.'
-3. Apply the Caesar cipher technique with the keyword 'CRYPTO.' Shift each letter by the corresponding letter's position in the keyword.
+3. Apply the Vigenère Cipher technique with the keyword 'CRYPTO.' Shift each letter by the corresponding letter's position in the keyword.
 4. Decrypt the message to unveil the hidden meaning: "Secret is the key secret."
 
-**Question 2: Deciphering with a Shift (Vigenère Cipher)**
+**Question 2: Deciphering with a Shift (Caesar Cipher)**
 
 1. Examine the encrypted message: "Hyhub lv d wuxh pbvwhub."
 2. The hint indicates a simple shift is involved.
-3. Apply the Vigenère cipher technique by shifting each letter in the message using a certain pattern.
+3. Apply the Caesar Cipher technique by shifting each letter in the message by 3.
 4. Decrypt the message to reveal the original text: "Every is a true mystery."
 
 **Question 3: Keyword Decryption Revisited (Playfair Cipher)**
