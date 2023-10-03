@@ -43,3 +43,4 @@ Congratulations! You've successfully completed the FOX-FOSTER Cryptography CTF c
 
 Thank you for participating, and keep honing your cryptographic skills for even greater adventures in the realm of codebreaking!
 
+for more information about foxfoster please visit foxfoster.com
